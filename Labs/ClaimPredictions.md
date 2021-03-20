@@ -4,7 +4,7 @@
 
 ## Introduction
 
-For this lab, we still keep using the (marketing_customer_analysis.csv file) - the US car insurance data set. You should be able to pick up where you left off in the previous rounds of customer behaviour analysis. However this time we will look to apply a linear regression machine learning model 
+For this lab, we still keep using the [marketing_customer_analysis.csv file](marketing_customer_analysis.csv) - the US car insurance data set. You should be able to pick up where you left off in the previous rounds of customer behaviour analysis. However this time we will look to apply a linear regression machine learning model 
 
 Review the previous rounds and follow the steps as shown in previous lectures.
 
