@@ -17,20 +17,28 @@ Read the .csv file into python
 ## 03 - Cleaning/Wrangling/EDA
 Change headers names.
 Deal with NaN values, replace with appropriate method. 
+
 split categorical Features and Numerical Features.
-Explore visually both sets of features, to identify next steps. 
+
+Explore visually both sets of features, to identify next steps.
+
 Look at potential multicollinearity using a correlation matrix or other approach. 
 
 ## 04 - Pre-Processing Data
 Dealing with outliers.
-Normalization - ie use chosen scaler to transform selected columns into normal distribution as needed for linear regression model. Propose: MinMax scaler on 'effective_to_date' and standard scaler on numerical columns 
+Normalization - ie use chosen scaler to transform selected columns into normal distribution as needed for linear regression model. Propose: MinMax scaler on 'effective_to_date' and standard scaler on numerical columns.
+
 Encoding Categorical Data fields using OHE.
+
 Bring categorical and numerical columns back together using pd.concat.
+
 Define X and y, the y value you are seeking to predict is claim amount.
+
 Splitting into train set and test dataset using random state, eg 80%:20% .
 
 ## 05 - Modeling
-Apply linear regression model from sklearn.linear_model
+Apply linear regression model from sklearn.linear_model.
+
 Fit over your train data and predict against X test. 
 
 ## 06 - Model Validation
