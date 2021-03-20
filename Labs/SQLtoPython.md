@@ -11,7 +11,7 @@ In this exercise, you will both practice the data cleaning techniques we discuss
 ## Getting Started
 
 
-In this lab you will be working on [sqlpy.ipynb](../blob/main/Labs/sqlpy.ipynb). Download the jyupter file or launch it from your fork. To launch it, first navigate to the directory that contains `sqlpy.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `sqlpy.ipynb` link to launch it.
+In this lab you will be working on [sqlpy.ipynb](..Labs/sqlpy.ipynb). Download the jyupter file or launch it from your fork. To launch it, first navigate to the directory that contains `sqlpy.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `sqlpy.ipynb` link to launch it.
 
 When you are on `sqlpy.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
 
