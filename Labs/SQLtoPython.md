@@ -26,32 +26,30 @@ import pymysql
 from sqlalchemy import create_engine
 ```
 
-Once your connection is established with the database yoo will use some basic SELECT queries to retrieve the data in order to answer the questions described next.
+Once your connection is established with the database you will use some basic SELECT queries to retrieve the data in order to answer the questions.
 
 :bulb: If you receive import errors for `pymysql` or `sqlalchemy`, it means you need to install them with `pip`.
 
 ### Challenge Questions
 
 1. Connect to the server and collect all the data from users and posts tables.
+2. Create a merged dataframe with users and post tables. **Take into account that you will need some additional steps to enable merging.**
+3. Identify missing values in the merged dataframe and apply some of the methods.
+4. Change the data types of your merged dataset accordingly.
+5. Create a dataframe with the outliers you have identified in the merged dataframe and export it to a csv file. 
+6. Summarise and visualise the relationship between the no. of posts each user has made with the median view count for that users' posts. Bonus - add in other interesting features to your visualisation. 
 
-1. Create a merged dataframe with users and post tables. **Take into account that you will need some additional steps to enable merging.**
 
-1. Identify missing values in the merged dataframe and apply some of the methods.
-
-1. Change the data types of your merged dataset accordingly.
-
-1. Bonus Question: Create a dataframe with the outliers you have identified in the dataframe and export it to a csv file in your-code folder. 
-
-**:exclamation: If you feel you are already good at Python/Pandas and don't need the instructions in `main.ipynb` to walk you through, please feel free to skip `main.ipynb` and create your own solution file.**
+**:exclamation: If you feel you are already good at Python/Pandas and don't need the instructions in `main.ipynb` to walk you through the steps, please feel free to skip `main.ipynb` and create your own solution files.**
 
 ## Deliverables
 
-- `main.ipynb` with your responses to each of the questions above.
+- `main.ipynb` with your responses to each of the questions.
 - `outliers.csv` containing the outliers of the dataset.
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git, push to your forked repo, and create the pull request as in the previous labs. **REMEMBER
+Upon completion, add your deliverables to git. Then commit git, push to your repo as in the previous labs. 
 
 - Upon completion, commit your code and submit to your github repo, which would likely include running the below from your command line
 
