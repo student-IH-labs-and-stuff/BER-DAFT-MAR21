@@ -1,3 +1,5 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
 # Task : clean the data - summarise your findings in a 'one pager'
 
 ## Here's your challenge for your first group project! 
