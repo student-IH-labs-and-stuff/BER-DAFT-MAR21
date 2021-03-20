@@ -4,16 +4,16 @@
 
 ## Introduction
 
-We keep seeing a common phrase that 80% of the work of a data scientist is data cleaning. We have no idea whether this number is accurate but a data scientist indeed spends lots of time and effort in collecting, cleaning and preparing the data for analysis. This is because datasets are usually messy and complex in nature. It is a very important ability for a data scientist to refine and restructure datasets into a usable state in order to proceed to the data analysis stage.
+We keep seeing a common phrase that 80% of the work of a data scientist is data cleaning. We have no idea whether this number is accurate but anyone working with data certainly spends lots of time and effort in collecting, cleaning and preparing the data ready for analysis. This is because datasets are usually messy and complex in nature. It is a very important skill to be able to refine and restructure datasets into a usable state in order to proceed to the data analysis stage.
 
-In this exercise, you will both practice the data cleaning techniques we discussed in the lesson and learn new techniques by looking up documentations and references. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
+In this exercise, you will both practice the data cleaning techniques we discussed in the lesson and learn new techniques by looking up documentation and references. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
 ## Getting Started
 
 
-In this lab you will be working on [main.ipynb](your-code/main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
+In this lab you will be working on [sqlpy.ipynb](../blob/Labs/sqlpy.ipynb). Download the jyupter file or launch it from your fork. To launch it, first navigate to the directory that contains `sqlpy.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `sqlpy.ipynb` link to launch it.
 
-When you are on `main.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
+When you are on `sqlpy.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
 
 ## Goals
 
@@ -40,13 +40,13 @@ Once your connection is established with the database you will use some basic SE
 6. Summarise and visualise the relationship between the no. of posts each user has made with the median view count for that users' posts. Bonus - add in other interesting features such as the comment buckets to your visualisation. 
 
 
-**:exclamation: If you feel you are already good at Python/Pandas and don't need the instructions in `main.ipynb` to walk you through the steps, please feel free to skip `main.ipynb` and create your own solution files.**
+**:exclamation: If you feel you are already good at Python/Pandas and don't need the instructions in `sqlpy.ipynb` to walk you through the steps, please feel free to skip `sqlpy.ipynb` and create your own solution files.**
 
 ## Deliverables
 
-- `main.ipynb` with your responses to each of the questions.
+- `sqlpy.ipynb` with your responses to each of the questions.
 - `stackoverflow.csv` containing the 'cleaned' merged dataset.
-- visualisation inside `main.ipynb` or other tool, such as tableau /excel chart exported as png.  
+- visualisation inside `sqlpy.ipynb` or other tool, such as tableau /excel chart exported as png.  
 
 ## Submission
 
