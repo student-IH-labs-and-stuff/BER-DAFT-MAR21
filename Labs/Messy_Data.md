@@ -4,7 +4,7 @@
 
 ## Here's your challenge for your first group project! 
 
-the deadline for finishing is Monday at noon; I will give you class time to work on this project, and you should submit your one pager via the student portal AND deliver a short group presentation to your classmates. 
+the deadline for finishing is Monday at six; I will give you class time to work on this project, and you should submit your one pager via the student portal AND deliver a short group presentation to your classmates. 
 
 You will be working with a data set hosted on Kaggle that has been scraped for you from the web about US data science hires in 2018 (ie pre-covid!). The author wanted to look at some specific questions :
 
