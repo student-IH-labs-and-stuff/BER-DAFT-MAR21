@@ -14,7 +14,7 @@ You will be working with a data set hosted on Kaggle that has been scraped for y
 
 I think you can do more with this data set to summarise the insights and the process of data wrangling. The data is not easy to work with at the moment. Your main challenge will be to use Python to clean, wrangle and generally reshape the data to make it more straightforward to analyse- to visualise what you find in the data you can either export it to a csv, use excel to chart it, or you can explore the capabilities of Python to plot the data.  
 
-You will be in a group (2-3 students) to work on this project; as we are remote this is an opportunity to get to know each-other while applying your recently acquired skills working with messy data. This is your first group project- be reasonable in your expectations of what can be achieved in the timeframe and working with new people!
+You will be in a group (2-4 students) to work on this project; as we are remote this is an opportunity to get to know each-other while applying your recently acquired skills working with messy data. This is your first group project- be reasonable in your expectations of what can be achieved in the timeframe and working with new people!
 
 The insights you find can be documented simply with screenshots of your data frames or downloaded images of charts, but I would like to see these accompanied by some simple annotation/text summarising both what you found AND how easy it was to get to. What we want from each group is a one pager- suitable for an infographic or blog page, describing what you learnt from the data and what the gaps in the data or limitations of it are.
 
