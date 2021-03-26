@@ -6,7 +6,7 @@ Build the following charts in tableau and publish them to your tableau public ac
 
 ## Challenge 1 
 
-Using the data set [What the Most Profitable Companies Make per Second.xlsx](profitability.xlsx) 
+Using the data set [profitability.xlsx](profitability.xlsx) 
 and Tableau Desktop or Tableau Public, create the following charts to visualise and answer the following simple questions: 
 
 (Ensure each chart has the appropriate fit, mark type, title, axis labels and legend.) 
