@@ -29,4 +29,4 @@ and Tableau Desktop or Tableau Public, create the following charts to visualise 
 4) For those laureates we do know the City they lived in at the time of the award, what difference do you notice about the location of physics and medicine nobel prize winners compared to chemistry? Use a stacked bar chart and experiement with the sort order to discover this insight- or display the 3 bar charts next to eachother in one view and use the sort icon on the axis to explore the data.
 
 
-### proprietary content of S E Davies, do not share without authors permission
+----- proprietary content of S E Davies, do not share without authors permission -------
