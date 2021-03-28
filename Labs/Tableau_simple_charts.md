@@ -4,6 +4,8 @@
 
 Build the following charts in tableau and publish them to your tableau public account (or upload the charts to your github repo as images in a readme) in order to submit the url via the Student Portal. Each task requires you to build a single tableau visualisation which enables the end user to easily answer the question. For each chart consider data visualisation best practices in your use of colour, text, axis labels and headings, legends, size/fit. We are looking for individual views or charts, not dashboards. 
 
+### author : S E Davies
+
 ## Challenge 1 
 
 Using the data set [profitability.xlsx](profitability.xlsx) 
