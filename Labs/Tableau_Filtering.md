@@ -6,7 +6,7 @@ Build the following charts making use of the filter types and edit filter option
 
 ## Challenge 1 
 
-Using the data set laureate.csv and Tableau Desktop or Tableau Public, create the following charts to visualise and allow end users to interact with the viz using filters:
+Using the data set [laureate.csv](laureate.csv) and Tableau Desktop or Tableau Public, create the following charts to visualise and allow end users to interact with the viz using filters:
 
 (Ensure each chart has the appropriate fit, mark type, title, axis labels/legend or map layers.)
 
