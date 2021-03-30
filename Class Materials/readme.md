@@ -10,3 +10,8 @@ class materials are from days 2-5, covering the following:
 * dates 
 * strings & regex 
 * EDA and descriptive statistics, correlation matrix
+
+
+## Unit 2 = Week 2 - Visualising Data to answer questions, introduction to Machine Learning
+class materials cover the following:
+* data sets for tableau lecture/ practice
