@@ -14,15 +14,15 @@ and Tableau Desktop or Tableau Public, create a story (at least 6 story points, 
 The chart choices for each story point are up to you and be as simple or complex as you like but remember the story is ideally consumed as a semi interactive presentation or pdf
 (Ensure each chart has the appropriate fit, mark type, title, axis labels and legend.) 
 
-1 overall summary / introduction to the story
-2 a view containing a sample of the data used and the detail/granularity inside the data set
-3 a view of crops and location to provide context for what the analysis will cover
-4 some vizzes showing comparisons between the available measures - pick at least 1 relationship to drill into by crop and country 
+* 1 - overall summary / introduction to the story
+* 2 -  a view containing a sample of the data used and the detail/granularity inside the data set
+* 3-  a view of crops and location to provide context for what the analysis will cover
+* 4-  some vizzes showing comparisons between the available measures - pick at least 1 relationship to drill into by crop and country 
   for example : 
   - yield in tonnes(you can derive this from HG/HA) compared to area harvested
   - gross production in tonnes v gross production in value) 
-5 any outliers, points of note or suprising trends you want to draw attention to with your story? 
-6 what do you want the end user to remember about your story (conclusion / main findings)
+* 5- any outliers, points of note or suprising trends you want to draw attention to with your story? 
+* 6- what do you want the end user to remember about your story (conclusion / main findings)
 
 
 
