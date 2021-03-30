@@ -27,7 +27,7 @@ and Tableau Desktop or Tableau Public, create the following charts to visualise 
 1) Which country has produced the most nobel laureates up to 2016 (country of birth)? suggestion -Use a map
 2) Whats the % of male to female nobel laureates up to 2016? suggestion -Use a text table or pie chart
 3) How many award motivations can we find in our data set that cite analysis work? (use 'analy' with CONTAINS to look for either analysis or analyses, analyze) suggestion -Use a bar chart
-4) For those laureates we do know the City they lived in at the time of the award, what difference do you notice about the location of physics and medicine nobel prize winners compared to chemistry? Use a stacked bar chart and experiement with the sort order to discover this insight- or display the 3 bar charts next to eachother in one view and use the sort icon on the axis to explore the data.
+4) For those laureates for whom we do know the **City** they lived in at the time of the award, what trend do you notice about the city home to physics and medicine nobel prize winners compared to the city home of chemistry nobel prize winners? Use a stacked bar chart and experiment with the sort order to discover this insight- or display the 3 bar charts next to eachother in one view and use the sort icon on the axis to explore the data.
 
 
 ----- proprietary content of SED Training Ltd-------
