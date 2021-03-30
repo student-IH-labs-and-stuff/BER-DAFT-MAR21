@@ -12,6 +12,8 @@ Using the data set [Harvested_Crops_Summary.csv](Harvested_Crops_Summary.csv)
 and Tableau Desktop or Tableau Public, create a story (at least 6 story points, but you can add more!) to take end users through the following or a similar / customised narrative: 
 
 The chart choices for each story point are up to you and be as simple or complex as you like but remember the story is ideally consumed as a semi interactive presentation or pdf
+
+
 (Ensure each chart has the appropriate fit, mark type, title, axis labels and legend.) 
 
 * 1 - overall summary / introduction to the story
