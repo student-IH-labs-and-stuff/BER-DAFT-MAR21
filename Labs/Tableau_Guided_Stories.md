@@ -6,7 +6,7 @@ Utilise the annotation and duplicate storypoint features within the Story which 
 
 Reminder : we are looking for individual views or charts on each task, not dashboards. 
 
-## Challenge 1 
+## Your challenge
 
 Using the data set [Harvested_Crops_Summary.csv](Harvested_Crops_Summary.csv) 
 and Tableau Desktop or Tableau Public, create a story (at least 6 story points, but you can add more!) to take end users through the following or a similar / customised narrative: 
