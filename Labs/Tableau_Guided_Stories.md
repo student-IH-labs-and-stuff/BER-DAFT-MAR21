@@ -2,9 +2,8 @@
 
 Build a story compiled of individual captioned storypoints in Tableau and publish the story only to your tableau public account, in order to submit the url via the Student Portal. 
 
-Utilise the annotation and duplicate storypoint features within the Story to guide the end user through the story you want to tell with your data.  For each page of your story you should consider data visualisation best practices. Its fine also to include some visual imagery, external research and comments but the main focus should be on visualising observations in the data step by step. 
-
-Reminder : we are looking for individual views or charts for each part of the story, not dashboards. 
+Utilise the annotation and duplicate storypoint features within the Story to guide the end user through the story you want to tell with your data.  For each page of your story you should consider data visualisation best practices. Its fine also to include some visual imagery, external research and comments but the main focus should be on visualising observations found in the data, step by step. 
+ 
 
 ## Your challenge
 
