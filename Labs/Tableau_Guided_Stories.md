@@ -23,7 +23,7 @@ The chart choices for each story point are up to you and be as simple or complex
 This can mean focusing on one or multiple crops, one or multiple areas of the world, over all time or filtering to specific points in time, comparing your choice of measurable data : area or yield or production. The aim is to discover some interesting patterns but also ensure you understand what you are looking at on each page of the story - this data set can be confusing and I recommend you spend some time exploring and making sense of what you see, perhaps even validating the numbers with external research. 
   for example : 
   - the total ha area harvested of total pulses, over time, compared to production tonnage of pulses. If I displayed this data on two pages of my Story I would have 2 sets of two timeseries, which first cross for Americas in 1998 but have not yet converged for Africa. This is presumably because of intensified farming methods in the Americas. 
-* 5- a view which is related to the last view, but draws attention to an area, a period of time, points of note or suprising trends, drilling into what was showed on the previous page in some way.
+* 5- a view which is related to the last view, but draws attention to an area, a period of time, points of note or surprising trends, drilling into what was showed on the previous page in some way.
 * 6- what do you want the end user to remember about your story (conclusion / main findings)
 
 
