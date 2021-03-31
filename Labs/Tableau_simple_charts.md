@@ -13,7 +13,7 @@ and Tableau Desktop or Tableau Public, create the following charts to visualise 
 (Ensure each chart has the appropriate fit, mark type, title, axis labels and legend.) 
 
 1) What company made the most **per second** in 2016? and which industry was that in? Which industry appears most often in the **top 5**? suggestion - use a horizontal bar plot
-2) Is there any discernible relationship between the **Fortune 500 Rank** of a company and its **Net profit per year** in 2016? suggestion -Use a scatter plot
+2) Is there any discernible relationship between the **Fortune 500 Rank** of a company and its **Net income** in 2016? suggestion -Use a scatter plot
 3) In our data set, what does the breakdown (/composition) of the number of companies per industry look like? suggestion - Use a text table, packed bubble or treemap to display this sort of information
 4) BONUS : Add a url action on the menu select to go from any of these charts to https://fortune.com/company/<Company> using the selected company name eg https://fortune.com/company/apple/ Hint : you may need to use a REPLACE function in a calculated field on the Company name, to replace spaces and special characters in company names for your action to work. Also, dont worry if you start getting a 404 error - Fortune will quickly block suspected bots! You can also try wikipedia or find another website which hosts a similar company name search. 
 
