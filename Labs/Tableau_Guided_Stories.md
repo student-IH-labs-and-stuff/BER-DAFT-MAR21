@@ -2,35 +2,35 @@
 
 Build a story compiled of individual captioned storypoints in Tableau and publish the story only to your tableau public account, in order to submit the url via the Student Portal. 
 
-Utilise the annotation and duplicate storypoint features within the Story which will guide the end user through the story you want to tell with your data.  For each page of your story you should consider data visualisation best practices. 
+Utilise the annotation and duplicate storypoint features within the Story to guide the end user through the story you want to tell with your data.  For each page of your story you should consider data visualisation best practices. Its fine also to include some visual imagery, external research and comments but the main focus should be on visualising observations in the data step by step. 
 
-Reminder : we are looking for individual views or charts on each task, not dashboards. 
+Reminder : we are looking for individual views or charts for each part of the story, not dashboards. 
 
 ## Your challenge
 
 Using the data set [Harvested_Crops_Summary.csv](Harvested_Crops_Summary.csv) 
-and Tableau Desktop or Tableau Public, create a story (at least 6 story points, but you can add more!) to take end users through the following or a similar / customised narrative: 
+and Tableau Desktop or Tableau Public, create a Story (at least 6 story points, but you can add more!) to take end users through the following or a similar / customised narrative: 
 
-The chart choices for each story point are up to you and be as simple or complex as you like but remember the story is ideally consumed as a semi interactive presentation or pdf
+The chart choices for each story point are up to you and be as simple or complex as you like but keep in mind that the Story is ideally consumed as a semi interactive presentation. 
 
 
 (Ensure each chart has the appropriate fit, mark type, title, axis labels and legend.) 
 
-* 1 - overall summary / introduction to the story
-* 2 -  a view containing a sample of the data used and the detail/granularity inside the data set
-* 3-  a view of crops and location to provide context for what the analysis will cover
-* 4-  some vizzes showing comparisons between the available measures - pick at least 1 relationship to drill into by crop and country 
+* 1 - overall summary / introduction to your Story
+* 2 - a view containing a sample of the data set which reveals the available detail/granularity - a good time to point out any limitations!
+* 3-  a view of a crop(s) over time or with all locations to provide context for what the story will cover
+* 4-  a view revealing comparisons / trends over time, within the crop harvest data: pick at least 1 relationship or trend to drill into. 
+This can mean focusing on one or multiple crops, one or multiple areas of the world, over all time or filtering to specific points in time, comparing your choice of measurable data : area or yield or production. The aim is to discover some interesting patterns but also ensure you understand what you are looking at on each page of the story - this data set can be confusing and I recommend you spend some time exploring and making sense of what you see, perhaps even validating the numbers with external research. 
   for example : 
-  - yield in tonnes(you can derive this from HG/HA) compared to area harvested
-  - gross production in tonnes v gross production in value) 
-* 5- any outliers, points of note or suprising trends you want to draw attention to with your story? 
+  - the total ha area harvested of total pulses, over time, compared to production tonnage of pulses. If I displayed this data on two pages of my Story I would have 2 sets of two timeseries, which first cross for Americas in 1998 but have not yet converged for Africa. This is presumably because of intensified farming methods in the Americas. 
+* 5- a view which is related to the last view, but draws attention to an area, a period of time, points of note or suprising trends, drilling into what was showed on the previous page in some way.
 * 6- what do you want the end user to remember about your story (conclusion / main findings)
 
 
 
 This dataset for this lab is taken from a makeover monday challenge earlier this month (14.03) which means you will find lots of examples online via twitter and tableau public of tableau workbooks that other commnunity users have built, as well as videos on the top examples and a viz along video too. 
-A lot of what you might discover may be advanced for you but will give ou some ideas for what your story could contain. 
-https://www.makeovermonday.co.uk/data/
+A lot of what you might discover may be advanced for you but will definitely give you some ideas for what your story could contain and what chart types to use. 
+Follow this path and go to 14.03 : https://www.makeovermonday.co.uk/data/
 
 to find out more about makeover monday go [here](https://www.makeovermonday.co.uk/) - this is a great way to rapidly develop your tableau skills!
 
