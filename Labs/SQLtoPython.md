@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | SQL Data Cleaning and visualise in Python or Tableau
+# Lab | End to End : SQL query & Data Cleaning/Wrangling in Python & Visualise in Python or Tableau
 
 ## Introduction
 
