@@ -30,24 +30,26 @@
 
 ### Transportation
 
-whats the average u bahn journey time between any two stations? 
-which bus route has the most stops?
-are there parts of the city with more public transport options than others?
-U: which routes are the more pleasant and /or scenic?
+* 1. whats the average u bahn journey time between any two stations? 
+* 2. which bus route has the most stops?
+* 3. are there parts of the city with more public transport options than others?
+* 4. U: which routes are the more pleasant and /or scenic?
 
 ### Restaurants
 
-which parts of the city have the most restaurants per sq km?
-where can a vegan burger restaurant be found, open on thursdays at 6pm?
-how many Vietnamese restaurants are there in Berlin? 
-U: which restaurants are good for big groups? 
+* 1. which parts of the city have the most restaurants per sq km?
+* 2. where can a vegan burger restaurant be found, with an opening time filter eg customer wants to visit on thursday at 6pm?
+* 3. how many Vietnamese restaurants are there in Berlin? 
+* 4. U: which restaurants are good for big groups? 
 
 ### Entertainment 
 
-where are the biggest theatres in Berlin?
-how many cinemas are there? and what type are they? eg independent, chain, art-house
-which art galleries are open on Sundays?
-U: is the club scene in Berlin growing or contracting?
+* 1. where are the biggest theatres in Berlin?
+* 2. how many cinemas are there? and what type are they? eg independent, chain, art-house
+* 3. which art galleries are open on Sundays?
+* 4. U: is the danceclub scene in Berlin growing or contracting?
+
+
 
 #### - for tips on how to design an ERD, what symbols and connectors to use : 
 
