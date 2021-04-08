@@ -1,4 +1,4 @@
-# Lab | End to End : SQL query & Data Cleaning/Wrangling in Python & Visualise in Python or Tableau
+# Lab | End to End : SQL query & Data Wrangling in Python & Visualise in Python or Tableau
 
 ## Introduction
 
