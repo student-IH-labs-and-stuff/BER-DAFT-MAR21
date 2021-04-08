@@ -21,7 +21,7 @@ In this lab, you will examine some MySQL tables from [here](https://relational.f
 For more information about the schema, the entities etc : [here](https://www.brentozar.com/archive/2018/02/gentle-introduction-stack-overflow-schema) and [here](https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede) 
 
 
-You will need to import the `pymysql` library and the `create_engine` function from the `sqlalchemy` library to connect python and MySQL.
+You will need to import the `pymysql` library and the `create_engine` function from the `sqlalchemy` library to connect python and MySQL as you saw in class today.
 
 ```python
 import pymysql
