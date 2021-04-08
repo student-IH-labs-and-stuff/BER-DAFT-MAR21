@@ -31,6 +31,7 @@ from sqlalchemy import create_engine
 Once your connection is established with the database you will use some basic SELECT queries to retrieve the data you want in order to answer the questions.
 
 :bulb: If you receive import errors for `pymysql` or `sqlalchemy`, it means you need to install them with `conda install` or `pip install`.
+
 :bulb: you can also go through [this blog](https://hackersandslackers.com/pandas-and-sqlalchemy/) step by step to complete your installation 
 
 ### Challenge Steps
@@ -74,13 +75,9 @@ Do ensure you have a tidy, readable .md file for your lab.
 
 - you can then submit your github url via the Student Portal
 
-## Resources
-
-[Data Cleaning Tutorial](https://www.tutorialspoint.com/python/python_data_cleansing.html)
+## Refresher resources on data cleaning if needed 
 
 [Data Cleaning with Numpy and Pandas](https://realpython.com/python-data-cleaning-numpy-pandas/#python-data-cleaning-recap-and-resources)
-
-[Data Cleaning Video](https://www.youtube.com/watch?v=ZOX18HfLHGQ)
 
 [Data Preparation](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html)
 
