@@ -1,6 +1,6 @@
 # Predict the flower class!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Vintage_Flower_illustration_by_Pierre-Joseph_Redout%C3%A9%2C_digitally_enhanced_by_rawpixel_26.jpg" alt="drawing" align="right" width="300px;"/>
+<img src="iris.jpg" alt="drawing" align="right" width="300px;"/>
 
 1. Import the dataset `iris_dirty.csv` from [here](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/iris_dirty.csv) into a Pandas dataframe. Check the Pandas documentation of `read_csv()` and use the column names `sepal_length`, `sepal_width`, `petal_length`, `petal_width` and `class` when you read in the data.
 2. Explore the data with the known Pandas functions `head()`, `info()`, `describe()`, `count()`, `value_counts()` (for all columns). Watch for missing values, duplicates, spelling errors, non-uniform units, columns with datatypes they shouldn't have etc.
