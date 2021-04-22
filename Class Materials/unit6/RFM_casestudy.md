@@ -40,11 +40,6 @@ You find some e-commerce data on kaggle, covering 2010 and 2011, with which you 
  Churned top customers (411, 412, 421 and 422)
  
 * Develop a presentable, interactive Tableau dashboard which will allow the team to visualise and explore as many aspects of RFM as possible/  would be interesting to the team, with the limited data available. Some examples:
-- how many customers per tier combination 
-- how many customers in each behavioural segment 
-- average no of weeks since last order for each behavioural segment 
-- average monthly spend of best customers 
-- spread of no of purchases per customer
-- cohort analysis by month to indicate loyalty 
-- other... 
+
+how many customers per tier combination ;  how many customers in each behavioural segment ; average no of weeks since last order for each behavioural segment; average monthly spend of best customers; spread of no of purchases per customer; cohort analysis by month to indicate loyalty ; other... 
 
