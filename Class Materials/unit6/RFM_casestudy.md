@@ -27,7 +27,7 @@ You find some e-commerce data on kaggle, covering 2010 and 2011, with which you 
 ### Your Tasks 
 
 * Your first task will be to collect the data [from kaggle](https://www.kaggle.com/carrie1/ecommerce-data) and download it as a csv. 
-* You will eventually need to explain the data column definitions to the market insight team (as the data liekly looks different to their own) so it will be worth making a note of what each column contains, the data types, potential missing values etc when collecting the data from kaggle.
+* You will eventually need to explain the data column definitions to the market insight team (as the data likely looks different to their own) so it will be worth making a note of what each column contains, the data types, potential missing values etc when collecting the data from kaggle.
 * By exploring the data, dentify which fields from the 8 available columns you will actually need to perform your RFM analysis - see explanation above and other resources you will find online which explain the concept and various methods to achieve it
 * Perform an  isnull check on the data and remove /filter out as many null records as possible, taking into account what you want to find out about the customers (as this is a proof of concept you can be more aggressive with filtering and less transparent than you would in reality with the customer's data.  
 * Using LoDs, tag each customer with their most recent purchase date, the total they have spent and the no of times they have bought something
