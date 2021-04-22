@@ -7,7 +7,7 @@ in this lab you will follow the steps and concepts you saw in class today to
 + define customer behaviour segments 
 + create some simple views which summarise information per segment/ tier (eg count of customers) or allow a deep dive into customer aggregated information by RFM tiers and segments, or views which enable focus on either R,F or M breakdown of the customer base
 
-#### Each step below is given a description of what to do and accompanied by a helpful screenshot, which you can use where needed. 
+#### Each step below is given a description of what to do and accompanied by a [helpful screenshot in this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/RFMscreenshots), which you can use where needed. 
 
 ### Steps 
 ----
