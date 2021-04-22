@@ -30,9 +30,11 @@ It would be silly for us to complete a data analyst course in this year without 
 
 ### Resources 
 
-RAW DATA : We are giving you one open data source to work with - other elements of your story can be drawn from 'data' sources you find online or simply taken from your own research - ie key dates and changes in public policy, or issues you are familiar with, opinion pieces you find, news articles etc. [movement-range-data](https://data.humdata.org/dataset/movement-range-maps)
-This data source is kept monthly up to date, contains data on many (but not all countries) and some guidance on how to use it. 
+![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/Storytelling/facebook.jpeg "facebook movement data")
 
+RAW DATA : We are giving you one open data source to work with - other elements of your story can be drawn from 'data' sources you find online or simply taken from your own research - ie key dates and changes in public policy, or issues you are familiar with, opinion pieces you find, news articles etc. [movement-range-data](https://data.humdata.org/dataset/movement-range-maps)
+This data source is kept monthly up to date, contains data on many (but not all countries) and some guidance on how to use it. You will also see some examples online of other designers and analysts making use of this data. 
+![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/Storytelling/MovementRange_ca.jpeg "california example")
 
 ### Guidance / Tips 
 
