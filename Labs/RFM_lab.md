@@ -29,6 +29,7 @@ in this lab you will follow the steps and concepts you saw in class today to
 11. finally, create a last calculated field which, with IF-ELSEIF-ELSE logic and the RFM tier, combinations, prescribes a number of interesting customer segments. You can conduct research on commonly used RFM definitions or develop your own. 
 12.  you are ready to start building your views! Think about what you would want to show the market insight team and what is simple to understand. You can turn to [this dashboard](https://public.tableau.com/profile/sianedavies#!/vizhome/RFManalysis_16184195515190/RFMDashboard-ECommerceRetailDS) for inspiration but any view that uses your new segments or the tiers you have created to explore patterns in the customer behaviour are valid! 
 
+---- 
 
 When you are ready, save your workbook with the separate views showing as tabs to Tableau public and submit your lab via the student portal (tableau public url)
 
