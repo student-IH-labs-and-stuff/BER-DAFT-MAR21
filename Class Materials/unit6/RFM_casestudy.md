@@ -46,11 +46,11 @@ how many customers per tier combination ;  how many customers in each behavioura
 
 ### Tips on the data source 
 
-Data contains returns as well as purchases (look for a negative unit price)
-The data is for a limited amount of time 2010 - 2011 
-Some null values - on dates, customer_ids, prices and qty 
-Transactional level detail - multiple orders per customer and within one order, multiple items (Description) are purchased
-Contains only one date (invoice date) which you have to take as purchase date (but be careful of negative / null dates)
++ Data contains returns as well as purchases (look for a negative unit price)
++ The data is for a limited amount of time 2010 - 2011 
++ Some null values - on dates, customer_ids, prices and qty 
++ Transactional level detail - multiple orders per customer and within one order, multiple items (Description) are purchased
++ Contains only one date (invoice date) which you have to take as purchase date (but be careful of negative / null dates)
 
 
 
