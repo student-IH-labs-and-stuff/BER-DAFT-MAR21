@@ -6,7 +6,7 @@ Work collaboratively in groups of 2-4
 
 ### Time
 
-You have until 4pm today to get the data, analyse it, and develop a story around the data which can be presented back to the classroom
+You have until 4:00 pm today to get the data, analyse it, and develop a story around the data which can be presented back to the classroom
 
 ### Tools 
 
@@ -22,19 +22,22 @@ It would be silly for us to complete a data analyst course in this year without 
 
 - Collaborate and support each-other, sharing your ideas, brainstorming what is the tale you want to tell and making the most of each of your respective skills to produce a **data story** centred around changes observed in human movement under covid-19 restrictions in specific country(/ies) or Region(s). Ideally the story should have a time element (ie changes in movement over a timeline) and some comparisons - compare cities or countries' experience at respective dates.
 -  Your presentation must take your audience on a journey through the arc of your data story - hint: think about who your story would be targeted at, in order to pitch the visuals, language, descriptions, and technical details appropriately. This [link](https://blog.reedsy.com/narrative-arc) is a good one to get you thinking as a storyteller about narrative structures, the story arc and the various elements of a plot eg inciting incident. 
--  Your data source(s) can be processed /cleaned, explored in Python or Tableau, but the end output we want to see is simply the Tableau dashboard or story. A very small presentation is required (dont worry about slides, just use the Tableau materials as your visuals) in class at 4pm to talk through the story - tip: pick the best storyteller in your group to do this, or pair up to do a 'double act'
+-  Your data source(s) can be processed /cleaned, explored in Python or Tableau, but the end output we want to see is simply the Tableau dashboard or story. A very small presentation is required (dont worry about putting together beautiful slides, you can just use the Tableau materials as your visuals) in class at 4pm to talk through the story - tip: pick the best storyteller in your group to do this, or pair up to do a 'double act'
 -  All students will submit a url to their github repo containing a description of the project and url to their team's tableau workbook on tableau public, OR simply the link to tableau public, on the student portal, before the 4pm deadline
--  In class you will get feedback from your peers and the teaching team on how much the story interested them, surprised them, and how well it was researched/ structured
+-  In class you will get feedback from your peers and the teaching team on how much the story interested them, entertained or surprised them, and how well it was researched/ structured as a story
 
 ### Resources 
 
 RAW DATA : We are giving you one open data source to work with - other elements of your story can be drawn from 'data' sources you find online or simply taken from your own research - ie key dates and changes in public policy, or issues you are familiar with, opinion pieces you find, news articles etc. [movement-range-data](https://data.humdata.org/dataset/movement-range-maps)
+This data source is kept monthly up to date, contains data on many (but not all countries) and some guidance on how to use it. 
 
 
 ### Guidance / Tips 
 
-- Start with drafting a story on a whiteboard or paper - think about zooming in on the major story and identifying an interesting/ surprising focus point. Avoid the ones that we know well from the news. This is a bit like when a film has the major plot (eg. covid pandemic) and you also get a few side character plots (eg. whats happening in switzerland during this time?)  
+- Start with drafting a story on a whiteboard or paper - think about zooming in on the major story and identifying an interesting/ surprising focus point. Avoid the ones that we know well from the news. This is a bit like when a film has the major plot (eg. covid pandemic) and you also get a few side character plots (eg. whats happening in switzerland, or the region around Prague, during this time?)  
 - introduction-visual-insight-conclusion - can be a good simple structure
-- Dont try to do too much - think about comparing 2 or 3 places, spotting patterns and variation, rather than looking at lots of places and looking for multi-vector trends
+- Dont try to do too much - think about comparing 2 or 3 places, spotting patterns and variation, rather than looking at lots of countries and regions, looking for multi-vector trends
 - Use what you know - if you already have an opinion about a trend in a particular city or country, see if the data we have given you backs this up, that could give you a head start!
-- Deadline is 4:00 PM today so there is a little time pressure to come up with a story, identify additional data points or sources, bring it together and visualise it inside Tableau. At the end of the day (from 4 onwards) you will be sharing your story with the whole class. Important! this is not a formal / polished presentation- you can simply nominate one person in your team to click through and demonstrate your group's story on the zoom classroom. 
+- Deadline is 4:00 PM today so there is a little time pressure to come up with a story, understand the facebook data, identify additional data points or sources, bring it together and visualise it inside Tableau. At the end of the day (from 4:15pm onwards) you will be sharing your story with the whole class. 
+
+**Important! this is not a formal / polished presentation- you can simply nominate one person in your team to click through and demonstrate your group's story on the zoom classroom. Feel free to make it funny, entertaining, bringing in memes, sound effects, or being controversial - you can entertain and shock us! 
