@@ -31,7 +31,7 @@ You find some e-commerce data on kaggle, covering 2010 and 2011, with which you 
 * By exploring the data, dentify which fields from the 8 available columns you will actually need to perform your RFM analysis - see explanation above and other resources you will find online which explain the concept and various methods to achieve it
 * Perform an  isnull check on the data and remove /filter out as many null records as possible, taking into account what you want to find out about the customers (as this is a proof of concept you can be more aggressive with filtering and less transparent than you would in reality with the customer's data.  
 * Using LoDs, tag each customer with their most recent purchase date, the total they have spent and the no of times they have bought something
-* Once the customers are tagged you can split them into RFM tiers (1-4) using quantiles.
+* Once the customers are tagged you can split them into RFM tiers (1-4) using percentiles.
 * Then, with an IF ELSE calculated field, define customers into behavioural segments according to their tier combinations. Here are some examples you can use for those segments but you are free to identify your own segments:
  Best customers (111)
  Lapsed valuable customers (4_1, 3_1)
