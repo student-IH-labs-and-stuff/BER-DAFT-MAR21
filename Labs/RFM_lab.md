@@ -13,7 +13,7 @@ in this lab you will follow the steps and concepts you saw in class today to
 ----
 1. you should already have the data from todays lesson, but if not download the csv from kaggle following the link provided in the case study 
 2. explore and familiarise yourself with the data at your own pace - identify the columns you will need to keep and any you can drop or hide
-3.  assert data source filters on the data source connection page for Unit Price>0 , Quantity>0 , Invoice amount>0 
+3.  assert data source filters on the data source connection page for Unit Price>0 , Quantity>0 
 4. create a view (worksheet) for checking dimension nulls - utilising ISNULL calculated fields on Customer ID, Description, Invoice Date, Invoice Number to confirm how many nulls are in the data, as a proportion of all the data - hint: you will need a stacked bar chart and quick table calculation percentage of total 
 5. Recency: 
 - first, use a FIXED Lod to create a calculated field which is the maximum date of the datasource (hint this will be the same for all records),  
