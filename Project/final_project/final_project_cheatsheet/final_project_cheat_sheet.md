@@ -126,9 +126,9 @@ These are all Kaggle data sets, so you can gain some context about them by looki
   * on a website, scrape a table and extract only one entry of a row
   * etc.
 
-* [curated list of python tools](https://github.com/vinta/awesome-python)
+* If you encounter a problem in that needs to be solved and you assume that this might be a common problem ("I need all the states of the Asian and European continent in a list!"), the likelihood is high that someone has already wrote a python package that you can make use. This can save you a lot of time compared to write yourself your own function / manually solve the problem. Have here a [curated list of python tools](https://github.com/vinta/awesome-python)
 
-  A general approach of problem solving here can be borrowed from *first principles thinking* (see above!): **First make it work for one case**. Before of course, find out the structure/the patterns/the similarities of that single case within the context of the all cases, **then scale up and apply it to all cases** (meaning for example: Write a `for`-loop that does the job)
+* A general approach of problem solving here can be borrowed from *first principles thinking* (see above!): **First make it work for one case**. Before of course, find out the structure/the patterns/the similarities of that single case within the context of the all cases, **then scale up and apply it to all cases** (meaning for example: Write a `for`-loop that does the job)
 
   Some examples:
   * **data cleaning**:
