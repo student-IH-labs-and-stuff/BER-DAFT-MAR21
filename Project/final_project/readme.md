@@ -28,10 +28,9 @@
 The initial project kick off meeting is often the best moment of any workspace project - here we are, sat around the table, full of enthusiasm about what will be possible, getting to know everyone who will help you deliver your part, identifying the milestones, success criteria, teasing the project manager and discussing (in only the loosest philiosphical terms) the potential challenges that may arise. This is a good day!!
 
 Fast forward 1 week and the project can begin to look like a very slow train crash....  
-![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/TTTW_large.jpeg)
+<img align="right" width="100" height="100" src="https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/TTTW_large.jpeg">
 
 
---------
 
 **So, what we will do is use this kick off meeting to engage your thinking caps and prepare you as best we can for the next two weeks** 
 
