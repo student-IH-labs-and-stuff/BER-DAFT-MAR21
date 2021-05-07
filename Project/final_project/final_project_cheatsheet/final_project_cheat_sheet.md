@@ -147,7 +147,7 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 
       # in the following: store that into a soup
     ```
-* It may happen that you ask yourself: Is it possible to define variables dynamically? As in, "I have here COVID data for 120 countries, and I want to create one dataframe for each country. Can this be achieved in Python?
+* It may happen that you ask yourself: Is it possible to define variables dynamically? As in, "I have here COVID data for 120 countries, and I want to create one dataframe for each country. Can this be achieved in Python?. The short answer is: Don't. There are always better ways to achieve this, see this [stackoverflow link](https://stackoverflow.com/questions/5036700/how-can-you-dynamically-create-variables-via-a-while-loop)
 
 ## Further material
 * *Python tricks* - Dan Bader,  ASIN : B0785Q7GSY
