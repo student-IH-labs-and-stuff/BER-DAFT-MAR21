@@ -117,6 +117,8 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 
 * [Presenting code in Jupyter notebook](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67) (helpful if you want to live demonstrate your model inference/predictions e.g.)
 
+* Don't spend too much time on crafting a coherent style of your presentation. Remember you can still make use of existing style templates, e.g. from [here](https://slidesmania.com/free-templates/) (pay attention to mention the author though if necessary)
+
 # 4. General Python hints
 
 * A lot of times you will face the situation of having to perform a job on a "huge thing" that can be separated into individual pieces, such as:
