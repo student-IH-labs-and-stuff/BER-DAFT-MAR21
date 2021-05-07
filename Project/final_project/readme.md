@@ -21,7 +21,7 @@
 #### Dont forget on Notion we have a wonderful [additional resources](https://www.notion.so/ironhack/8af74fb0e11447e9812e816ec184b958?v=c90c2e1e8d2846f0bc25d8a9e667ff1e) section, solutions, links in the calendar and the class recordings too
 
 
-## Project Kick off Agenda 
+## Project Kick off
 
 ![alt text](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/kick-off-meetings.png)
 
