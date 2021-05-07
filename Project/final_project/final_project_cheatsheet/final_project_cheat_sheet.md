@@ -77,6 +77,8 @@ Name | description | link
 Google dataset search           ||[link](https://datasetsearch.research.google.com/)
 UCI Machine learning repository ||[link](https://archive.ics.uci.edu/ml/index.php)
 Berlin open data repository  | Berlin specific Datasets (German knowledge helpful)  | https://daten.berlin.de/tags/open-data
+London Data Store | London specific Datasets (ask Sian for explainers)  | https://data.london.gov.uk/
+Data world | cloud catalog of many datasets (free, requires registration)  | https://data.world/
 
 #### Kaggle sets
 
@@ -97,6 +99,10 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 * ["AnyAPI"](https://any-api.com/)
 * [List of python API wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 * googling `python <sitename> api`
+* rapidAPI - as used in module 7
+* [Makeover Monday] (https://www.makeovermonday.co.uk/) , look at weekly project topics, access data sources and see how others visualised it 
+* [information is beautiful] (https://informationisbeautiful.net/) , what can we add to the title ? 
+* [storytelling with data] (https://www.storytellingwithdata.com/blog), the SWD challenge blog - highly recommended 
 
 ---
 
