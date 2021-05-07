@@ -1,6 +1,6 @@
 ## Here are some final project proposals for anyone who doesnt have a firm project in mind - feel free to adopt one of these or adapt it to your own preferences 
 
-+ Our class slack workspace- json wrangling, insights, and links posted from the start of the course - it is possible to download the full json code from the beginning of the course - could you build a reusable python tool which would allow any ironhack class to pull the useful (and gdpr compliant) information from their slack workspace data - and pitch it to the ironhack bosses ? for example shared web resources, the most active channels, topics, threads and emojis
++ Our class slack workspace- json wrangling,  to discover insights, links posted from the start of the course - it is possible to download the full json code from the beginning of the course - could you build a reusable python tool which would allow any ironhack class to pull the useful (and gdpr compliant) information from their slack workspace data - and pitch it to the ironhack bosses ? for example shared web resources, the most active channels, topics, threads and emojis
 + Data source : in [this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/Data-FT-Ber-03-2021%20Slack%20export%20Mar%2018%202021%20-%20Apr%2027%202021.zip)
 
 -------------------
