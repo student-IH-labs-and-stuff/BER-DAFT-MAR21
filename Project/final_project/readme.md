@@ -9,7 +9,7 @@
 + your learning objectives 
 + a reminder of the ultimate aim (the friday bootcamp graduation and hackathon)
 
-## As a supplement, this read me points you to the resources shared in this github repo that could help you through a successful project
+## As a supplement, this ***readme*** points you to the resources shared in this github repo that could help you through a successful project
 
 ### Contents:
 
@@ -17,6 +17,8 @@
 2) [links with tips on how to use agile/scrum/sprint methods to manage your project](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/Agile_method.md)
 3) [projects from past cohorts we liked](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/past_cohort_projects.md) - - git hub repos, we have not checked them all- theres a variety of levels in here, not just the technically advanced. they all had great presentations
 4) [sample project briefs](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/project_proposals.md) some ideas to get you started that we have not yet seen 
+
+## Dont forget on Notion we have a wonderful [additional resources](https://www.notion.so/ironhack/8af74fb0e11447e9812e816ec184b958?v=c90c2e1e8d2846f0bc25d8a9e667ff1e) section, solutions, links in the calendar and the class recordings too
 
 
 ## Project Kick off Agenda 
