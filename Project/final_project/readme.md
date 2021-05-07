@@ -27,18 +27,25 @@ The initial project kick off meeting is often the best moment of any workspace p
 
 ### Agenda:
 -----
-Section one : the process 
-+ a) student portal definition & deadline
-+ b) clarify the project timetable day by day
-+ c) orientation of the github folder 
-+ d) expectations from the teaching team 
-+ e) general questions (not topic related) 
+###### Section one : the process 
+
++ a) Student portal - definition & deadline
++ b) Clarify the project timetable day by day
++ c) Orientation of the github folder 
++ d) Expectations from the teaching team 
++ e) General questions (not topic related) 
 
 ---- break ---- 
 
-Section two : the topic
-+ a) student portal definition & deadline
-+ b) clarify the project timetable day by day
-+ c) orientation of the github folder 
-+ d) expectations from the teaching team 
-+ e) general questions (not topic related) 
+###### Section two : the topic
+
++ a) Kosta and Flo - what did they do for a final project ? How did it go ?
++ b) What does Sian look for in a great project idea or delivery of that idea ? 
++ c) Past project profiles  
++ d) Project Brief - spotify - Break out room discussion 
++ e) Feedback on the spotify project brief (main room) 
++ f) Project Briefs Sian has provided (any Q?) 
++ g) Invitation to brainstorm with your peers or explore the resources
+
+###### Fin....
+
