@@ -93,6 +93,7 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 #### Loose links
 
 * [24 Ultimate Data Science (Machine Learning) Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+* [curated list of python tools](https://github.com/vinta/awesome-python)
 
 ## 1.2.3. API-Sources
 
