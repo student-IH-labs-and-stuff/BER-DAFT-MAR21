@@ -9,9 +9,9 @@
 + your learning objectives 
 + a reminder of the ultimate aim (the friday bootcamp graduation and hackathon)
 
-## As a supplement, this ***readme*** points you to the resources shared in this github repo that could help you through a successful project
+### As a supplement, this ***readme*** points you to the resources shared in this github repo that could help you through a successful project
 
-### Contents:
+#### Contents:
 
 1) [Final Project Cheat Sheet](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/final_project_cheatsheet/final_project_cheat_sheet.md)
 2) [links with tips on how to use agile/scrum/sprint methods to manage your project](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/Agile_method.md)
