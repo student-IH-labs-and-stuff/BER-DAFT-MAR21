@@ -93,7 +93,7 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 #### Loose links
 
 * [24 Ultimate Data Science (Machine Learning) Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
-* [curated list of python tools](https://github.com/vinta/awesome-python)
+
 
 ## 1.2.3. API-Sources
 
@@ -125,6 +125,8 @@ These are all Kaggle data sets, so you can gain some context about them by looki
   * scrape multiple websites
   * on a website, scrape a table and extract only one entry of a row
   * etc.
+
+* [curated list of python tools](https://github.com/vinta/awesome-python)
 
   A general approach of problem solving here can be borrowed from *first principles thinking* (see above!): **First make it work for one case**. Before of course, find out the structure/the patterns/the similarities of that single case within the context of the all cases, **then scale up and apply it to all cases** (meaning for example: Write a `for`-loop that does the job)
 
