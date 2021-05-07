@@ -9,7 +9,7 @@
 + your learning objectives 
 + a reminder of the ultimate aim (the friday bootcamp graduation and hackathon)
 
-**As a supplement, this read me points you to the resources shared in this github repo that could help, as well as a lengthy set of guidance, tips and encouragement based on what the teaching team have seen happen in the past. It is worth spending some time reading through this after the project kick off and returning to it at any point: **
+**As a supplement, this read me points you to the resources shared in this github repo that could help, as well as a lengthy set of guidance, tips and encouragement based on what the teaching team have seen happen in the past. It is worth spending some time reading through this after the project kick off and returning to it at any point: 
 
 
 # 0. General tips for a successful completion
