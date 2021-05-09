@@ -19,8 +19,10 @@ You will follow the instructions and concepts you saw in class today to:
 
 #### Each step below is given a description of what to do and key stages are accompanied by prompt images in [this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/NLPscreenshots) to confirm you are on the right track 
 
+------
+
 ### Starter steps 
-----
+
 1. retrieve the data from this [kaggle link](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 2. install texblob onto your conda environment
 3. launch jupyter notebook in the same environment, and import pandas, matplotlib/seaborn and textblob 
@@ -43,6 +45,7 @@ You will follow the instructions and concepts you saw in class today to:
 ---- 
 
 ### Stretch guidance (optional follow on activities)
+
 1. how accurate is the sentiment polarity calculated on this data set? how can you tell ? 
 2. what are the most useful ways to visualise the sentiment polarity against the other data in the reviews data set? (hint: tableau or seaborn, exploratory data visualisation) 
 3. through sample /limited experimentation, investigate whether processing / cleaning the review text might lead to a more accurate sentiment calculation
