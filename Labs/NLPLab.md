@@ -9,7 +9,7 @@ The purpose of todays lab is to calculate and validate the customer sentiment (p
 
 You will follow the instructions and concepts you saw in class today to:
 + retrieve the data 
-+ sample a few customer reviews using textblob
++ sample customer reviews using textblob
 + use a function to apply sentiment analysis to the whole data set
 + visualise the sentiment by department / division
 *(optional- Stretch)*
@@ -32,8 +32,8 @@ You will follow the instructions and concepts you saw in class today to:
 7. EDA - with descriptive statistics (eg `describe()`, `shape`, `info()`) and/or simple charts, explore and familiarise yourself with the data at your own pace - clarify what each column means/contains and what cleaning steps could be employed (and if needed for our scenario)
 8. use the pandas [groupby function](https://realpython.com/pandas-groupby) to summarise the average rating by division and department as a new dataframe (image clothing_rating_groupby.png)
 9. this dataframe can be easily visualised as a bar chart - do so now (image clothing_rating_chart.png) 
-10. do a spot /sample check on the review column, index position 5 (hint: iloc/loc/at) to apply textblob over the selected review text (image clothing_sentiment_index5.png)
-11. for the same selected review, use textblob to break out the review into sentences (image clothing_sentences.png)
+10. do a spot /sample check on the review column, index position 5 (hint: iloc/loc/at) to apply textblob over the selected review text (image clothing_sentiment_index5.png) Do this for at least 3 samples to evaluate the accuracy of the sentiment polarity and subjectivity against the text itself
+11. for the any selected customer review, use textblob to break out the text into sentences (image clothing_sentences.png)
 12. using dropna, remove any rows in your data which contain have null in the review column ( hint your new data will be 22641 rows)
 13. define a function with lambda (or other preferred method) to calculate sentiment polarity for each row of the filtered review data set, as a new column on the data frame. (image clothing_sentiment_allrows.png)
 14. using the pandas groupby function again, summarise the minimum review polarity, by division and department as a new dataframe (image clothing_min_review.png)
