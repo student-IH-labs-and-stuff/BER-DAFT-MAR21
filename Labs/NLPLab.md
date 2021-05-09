@@ -17,7 +17,7 @@ You will follow the instructions and concepts you saw in class today to:
 + apply another sentiment analyser
 + identify and evaluate the differences between each approach
 
-#### Each step below is given a description of what to do and key stages are accompanied by prompt images in [this folder]() to confirm you are on the right track 
+#### Each step below is given a description of what to do and key stages are accompanied by prompt images in [this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/NLPscreenshots) to confirm you are on the right track 
 
 ### Starter steps 
 ----
@@ -25,17 +25,17 @@ You will follow the instructions and concepts you saw in class today to:
 2. install texblob onto your conda environment
 3. launch jupyter notebook in the same environment, and import pandas, matplotlib/seaborn and textblob 
 4. read the data into a dataframe with pandas
-5. filter the data frame to the relevant subset of columns shown in the below image (as a new dataframe)
+5. filter the data frame to a relevant subset of columns required for our data scenario (image clothing_columns.png)
 6. use df.columns.str.lower() (or other preferred method) to standardise your column headers
 7. EDA - with descriptive statistics (eg `describe()`, `shape`, `info()`) and/or simple charts, explore and familiarise yourself with the data at your own pace - clarify what each column means/contains and what cleaning steps could be employed (and if needed for our scenario)
-8. use the pandas [groupby function](https://realpython.com/pandas-groupby) to summarise the average rating by division and department as a new dataframe
-9. this dataframe can be easily visualised as a bar chart 
-10. do a spot /sample check on the review column, index position 5 (hint: iloc/loc/at) to apply textblob over the selected review text
-11. for the same selected review, use textblob to break out the review into sentences
+8. use the pandas [groupby function](https://realpython.com/pandas-groupby) to summarise the average rating by division and department as a new dataframe (image clothing_rating_groupby.png)
+9. this dataframe can be easily visualised as a bar chart - do so now (image clothing_rating_chart.png) 
+10. do a spot /sample check on the review column, index position 5 (hint: iloc/loc/at) to apply textblob over the selected review text (image clothing_sentiment_index5.png)
+11. for the same selected review, use textblob to break out the review into sentences (image clothing_sentences.png)
 12. using dropna, remove any rows in your data which contain have null in the review column ( hint your new data will be 22641 rows)
-13. define a function with lambda (or other preferred method) to calculate sentiment polarity for each row of the filtered review data set, as a new column on the data frame. for loop or list comprehension 
-14. using the pandas groupby function again, summarise the minimum review polarity, by division and department as a new dataframe
-15. visualise this summary as a simple sorted bar chart 
+13. define a function with lambda (or other preferred method) to calculate sentiment polarity for each row of the filtered review data set, as a new column on the data frame. (image clothing_sentiment_allrows.png)
+14. using the pandas groupby function again, summarise the minimum review polarity, by division and department as a new dataframe (image clothing_min_review.png)
+15. visualise this summary as a simple sorted bar chart (image clothing_min_review_chart.png)
 16. using the pandas groupby function again, summarise the average review polarity, by division and department as a new dataframe
 15. visualise this summary as a simple sorted bar chart 
 16. tidy up your notebook as much as possible, removing any redundant code, and adding annotations where useful 
@@ -54,7 +54,7 @@ You will follow the instructions and concepts you saw in class today to:
 
 --------
 
-### When you are ready submit your lab via the student portal (github /google collab url)
+### When you are ready submit your lab via the student portal (github /google colab url)
 
 
 
