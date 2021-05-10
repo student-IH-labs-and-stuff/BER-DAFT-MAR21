@@ -80,6 +80,7 @@ Berlin open data repository  | Berlin specific Datasets (German knowledge helpfu
 London Data Store | London specific Datasets (ask Sian for explainers)  | https://data.london.gov.uk/
 Data world | cloud catalog of many datasets (free, requires registration)  | https://data.world/
 CRRC | datasets collected on the caucasus, useful non profit source of public opinions, impact etc - download as spss and convert in python  | https://caucasusbarometer.org/en/datasets/
+NASA | what can i add except say its Nasa's data  | https://data.nasa.gov/browse
 
 #### Kaggle sets
 
