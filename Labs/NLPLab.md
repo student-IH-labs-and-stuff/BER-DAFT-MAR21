@@ -37,7 +37,7 @@ You will follow the instructions and concepts you saw in class today to:
 12. for the any selected customer review, use textblob to break out the text into sentences (image clothing_sentences.png)
 13. using dropna, remove any rows in your data which contain have null in the review column ( hint your new data will be 22641 rows)
 14. define a function with lambda (or other preferred method) to calculate sentiment polarity for each row of the filtered review data set, as a new column on the data frame. (image clothing_sentiment_allrows.png)
-15. using the pandas groupby function again, summarise the minimum review polarity, by division and department as a new dataframe (image clothing_min_review.png)
+15. using the pandas groupby function again, summarise the minimum review polarity, by division and department as a new dataframe (image clothing_min_review.png) - this means whats the lowest sentiment score seen in each department and division - so everything will be less than 0
 16. visualise this summary as a simple sorted bar chart (image clothing_min_review_chart.png)
 17. using the pandas groupby function again, summarise the average review polarity, by division and department as a new dataframe
 18. visualise this summary as a simple sorted bar chart 
