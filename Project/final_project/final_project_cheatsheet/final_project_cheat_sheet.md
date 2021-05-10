@@ -79,6 +79,7 @@ UCI Machine learning repository ||[link](https://archive.ics.uci.edu/ml/index.ph
 Berlin open data repository  | Berlin specific Datasets (German knowledge helpful)  | https://daten.berlin.de/tags/open-data
 London Data Store | London specific Datasets (ask Sian for explainers)  | https://data.london.gov.uk/
 Data world | cloud catalog of many datasets (free, requires registration)  | https://data.world/
+CRRC | datasets collected on the caucasus, useful non profit source of public opinions, impact etc - download as spss and convert in python  | https://caucasusbarometer.org/en/datasets/
 
 #### Kaggle sets
 
@@ -101,9 +102,6 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 * [List of python API wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 * googling `python <sitename> api`
 * rapidAPI - as used in module 7
-* [Makeover Monday] (https://www.makeovermonday.co.uk/) , look at weekly project topics, access data sources and see how others visualised it 
-* [information is beautiful] (https://informationisbeautiful.net/) , what can we add to the title ? 
-* [storytelling with data] (https://www.storytellingwithdata.com/blog), the SWD challenge blog - highly recommended 
 
 ---
 
@@ -112,6 +110,9 @@ These are all Kaggle data sets, so you can gain some context about them by looki
 * [Python graph gallery](https://python-graph-gallery.com/all-charts/). A vast collection of matplotlib based (seaborn, matplotlib, pandas, etc.) plots with their respective code snippets. If you need a plot, pick one, check the code, copy-paste it and change it according to your needs
 * [80 Data Visualization examples using location data and maps](https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/)
 * [From Data to Viz - The ultimate guide to plotting](https://www.data-to-viz.com/), click the plot symbols to get Python code snippets shown
+* [Makeover Monday] (https://www.makeovermonday.co.uk/) , look at weekly project topics, access data sources and see how others visualised it 
+* [information is beautiful] (https://informationisbeautiful.net/) , what can we add to the title ? 
+* [storytelling with data] (https://www.storytellingwithdata.com/blog), the SWD challenge blog - highly recommended 
 
 # 3. Presentations
 
