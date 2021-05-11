@@ -35,6 +35,6 @@ each project brief contains a suggested direction, data sources, and would be ac
 
 ----------
 
-+ how many people have access to culture ? is there an unbalance in where cultural venues are located and the communities / wealth of surrounding neighbourhoods? are cultural venues easily accessible to people newly arrived to big cities and who do not yet speak the local language? 
++ how many people have access to culture ? is there an imbalance in where cultural venues are located and the communities / wealth of surrounding neighbourhoods? are cultural venues easily accessible to people newly arrived to big cities and who do not yet speak the local language? 
 + project will involve scraping, map work, visual analysis, statistical inference, joining data sets together- my data examples are from london but could be extended 
 + Data source example https://data.london.gov.uk/dataset/cultural-infrastructure-map https://data.london.gov.uk/dataset/focus-on-london-population-and-migration
