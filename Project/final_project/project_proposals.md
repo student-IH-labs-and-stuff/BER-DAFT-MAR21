@@ -11,7 +11,7 @@ each project brief contains a suggested direction, data sources, and would be ac
 + air pollution levels in cities- comparative analysis paris/ london  - trends and identifying specific places or times of year/day to avoid - can city dwellers make simple lifestyle changes to lower their levels of exposure to harmful air pollutants?
 + Data sources : https://www.globalcleanair.org/data-to-action/london-uk/breathe-london-data/ :   https://www.sciencedirect.com/science/article/pii/S026974911832168
       https://www.eea.europa.eu/themes/air/explore-air-pollution-data 
-      
+      https://www.eea.europa.eu/themes/air/air-emissions-data
       
  ------------------     
 
@@ -23,6 +23,7 @@ each project brief contains a suggested direction, data sources, and would be ac
 
 + beer project - a bit of fun- why not? inspired by a slack conversation mid week on nigerian consumption of guinness - something like 'are certain beers consumed more outside of their native country than at home and what are the conditions that make that happen?' example visualisation for inspiration: https://public.tableau.com/en-us/gallery/beer-europe?tab=featured 
 + Data sources https://www.statista.com/topics/4674/guinness-beer/ https://www.worldstopexports.com/beer-exports-by-country/ https://worldpopulationreview.com/country-rankings/beer-consumption-by-country https://ourworldindata.org/grapher/beer-consumption-per-person
++ https://data.london.gov.uk/dataset/cultural-infrastructure-map
 
 ---------------
 
@@ -31,3 +32,9 @@ each project brief contains a suggested direction, data sources, and would be ac
 + what about combining this with the facebook movement data and looking to identify time series and geographical links with bike sales in particular regions ?
 + some countries were already very bike heavy - vietnam, china, the netherlands - can we use those countries to compare to the other countries who have only lately joined the cycling boom?
 
+
+----------
+
++ how many people have access to culture ? is there an unbalance in where cultural venues are located and the communities / wealth of surrounding neighbourhoods? are cultural venues easily accessible to people newly arrived to big cities and who do not yet speak the local language? 
++ project will involve scraping, map work, visual analysis, statistical inference, joining data sets together- my data examples are from london but could be extended 
++ Data source example https://data.london.gov.uk/dataset/cultural-infrastructure-map https://data.london.gov.uk/dataset/focus-on-london-population-and-migration
