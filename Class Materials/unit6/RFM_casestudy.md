@@ -17,8 +17,11 @@ You find some e-commerce data on kaggle, covering 2010 and 2011, with which you 
 
 **Recency** How much time has elapsed since a customer’s last activity or transaction with the brand?
 - Per Customer : No of weeks between their latest inv date and last inv date (in system)
+
 **Frequency** How often has a customer transacted or interacted with the brand during a particular period of time? 
 - Per Customer : How many invoices have they had? How many items on those invoices ? 
+
+
 **Monetary** Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. 
 - Per Customer : What’s the total amount they have spent?
 
