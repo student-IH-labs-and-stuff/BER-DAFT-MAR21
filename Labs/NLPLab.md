@@ -8,13 +8,16 @@ The purpose of todays lab is to calculate and validate the customer sentiment (p
 
 
 You will follow the instructions and concepts you saw in class today to:
+*(Starter)*
 + retrieve the data 
++ explore the data
 + sample customer reviews using textblob
 + use a function to apply sentiment analysis to the whole data set
 + visualise the sentiment by department / division
-*(optional- Stretch)*
-+ visualise to validate the sentiment analysis
-+ apply another sentiment analyser
+
+*(Stretch)*
++ visualise, explore to validate the sentiment analysis accuracy
++ research and apply another sentiment analyser
 + identify and evaluate the differences between each approach
 
 #### Each step below is given a description of what to do and key stages are accompanied by prompt images in [this folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/NLPscreenshots) to confirm you are on the right track 
@@ -24,25 +27,26 @@ You will follow the instructions and concepts you saw in class today to:
 ### Starter steps 
 
 1. retrieve the data from this [kaggle link](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
-2. install texblob onto your conda environment
+2. install texblob onto your conda environment if you did not do it in class.
 3. launch jupyter notebook in the same environment, and import pandas, matplotlib/seaborn and textblob 
-4. read the data into a dataframe with pandas
+4. read the reviews data into a dataframe with pandas
 5. filter the data frame to a relevant subset of columns required for our data scenario (image clothing_columns.png)
 6. use df.columns.str.lower() (or other preferred method) to standardise your column headers
 7. EDA - with descriptive statistics (eg `describe()`, `shape`, `info()`) and/or simple charts, explore and familiarise yourself with the data at your own pace - clarify what each column means/contains and what cleaning steps could be employed (and if needed for our scenario)
-8. use the pandas [groupby function](https://realpython.com/pandas-groupby) to summarise the average rating by division and department as a new dataframe (image clothing_rating_groupby.png)
-9. this dataframe can be easily visualised as a bar chart - do so now (image clothing_rating_chart.png) 
-10. OPTIONAL - if you find it difficult to do this group by and visualise task in python- you can connect to the csv with Tableau and do the same chart there! this is also a useful exercise to remind you of how to work with Tableau (image clothing_rating_tableau.png)
-11. do a spot /sample check on the review column, index position 5 (hint: iloc/loc/at) to apply textblob over the selected review text (image clothing_sentiment_index5.png) Do this for at least 3 samples to evaluate the accuracy of the sentiment polarity and subjectivity against the text itself
-12. for the any selected customer review, use textblob to break out the text into sentences (image clothing_sentences.png)
-13. using dropna, remove any rows in your data which contain have null in the review column ( hint your new data will be 22641 rows)
-14. define a function with lambda (or other preferred method) to calculate sentiment polarity for each row of the filtered review data set, as a new column on the data frame. (image clothing_sentiment_allrows.png)
-15. using the pandas groupby function again, summarise the minimum review polarity, by division and department as a new dataframe (image clothing_min_review.png) - this means whats the lowest sentiment score seen in each department and division - so everything will be less than 0
-16. visualise this summary as a simple sorted bar chart (image clothing_min_review_chart.png)
-17. using the pandas groupby function again, summarise the average review polarity, by division and department as a new dataframe
-18. visualise this summary as a simple sorted bar chart 
-19. OPTIONAL - if you find it difficult to do these group by and visualise tasks in python- you can output your data frame to a csv, then connect to that csv with Tableau and do the same charts there! this is also a useful exercise to remind you of how to work with Tableau (image clothing_polarity_tableau.png)
-20. tidy up your notebook as much as possible, removing any redundant code, and adding annotations where useful 
+8. use the pandas [groupby function](https://realpython.com/pandas-groupby) to summarise the average rating number by division and department as a new dataframe (image clothing_rating_groupby.png)
+9. this dataframe can now be easily visualised as a bar chart - do so now (image clothing_rating_chart.png) 
+11. OPTIONAL - if you find it difficult to do this group by and visualise task in python- you can connect to the csv with Tableau and do the same chart there! this is also a useful exercise to remind you of how to work with Tableau (image clothing_rating_tableau.png)
+12. OPTIONAL - do a spot /sample check on the review column, index position 5 (hint: iloc/loc/at) to apply textblob over the selected review text (image clothing_sentiment_index5.png). Do this for at least 3 samples to evaluate the accuracy of the sentiment polarity and subjectivity against the text itself.
+13. OPTIONAL - for any selected customer review, use textblob to break out the text of the review into sentences (image clothing_sentences.png)
+15. using dropna, remove any rows in your data which contain have null in the review column ( hint your new data will be 22641 rows)
+16. define a function with lambda (or other preferred method) to calculate sentiment polarity for each row of the filtered review data set, as a new column on the data frame. (image clothing_sentiment_allrows.png)
+17. using the pandas groupby function again, summarise the **minimum** review polarity, by division and department as a new dataframe (image clothing_min_review.png) -  the lowest sentiment score seen in each department and division - so everything will be less than 0
+18. visualise this summary as a simple sorted bar chart (image clothing_min_review_chart.png)
+19. using the pandas groupby function again, summarise the **average** review polarity, by division and department as a new dataframe
+20. visualise this summary as a simple sorted bar chart 
+21. OPTIONAL - if you find it difficult to do these group by and visualise tasks in python- you can output your data frame to a csv, then connect to that csv with Tableau and do the same charts there! this is also a useful exercise to remind you of how to work with Tableau (image clothing_polarity_tableau.png)
+22. tidy up your notebook as much as possible, removing any redundant code, and adding annotations where useful
+23. submit notebook or have a go at the stretch instructions
 
 ---- 
 
